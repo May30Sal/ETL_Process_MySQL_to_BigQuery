@@ -1,0 +1,20 @@
+,book_id,title,author_fname,author_lname,released_year,stock_quantity,pages,size
+0,1,The Namesake,Jhumpa,Lahiri,2003,32,291,medium book
+1,2,Norse Mythology,Neil,Gaiman,2016,43,304,medium book
+2,3,American Gods,Neil,Gaiman,2001,12,465,medium book
+3,4,Interpreter of Maladies,Jhumpa,Lahiri,1996,97,198,small book
+4,5,A Hologram for the King: A Novel,Dave,Eggers,2012,154,352,medium book
+5,6,The Circle,Dave,Eggers,2013,26,504,big book
+6,7,The Amazing Adventures of Kavalier & Clay,Michael,Chabon,2000,68,634,big book
+7,8,Just Kids,Patti,Smith,2010,55,304,medium book
+8,9,A Heartbreaking Work of Staggering Genius,Dave,Eggers,2001,104,437,medium book
+9,10,Coraline,Neil,Gaiman,2003,100,208,medium book
+10,11,What We Talk About When We Talk About Love: Stories,Raymond,Carver,1981,23,176,small book
+11,12,Where I'm Calling From: Selected Stories,Raymond,Carver,1989,12,526,big book
+12,13,White Noise,Don,DeLillo,1985,49,320,medium book
+13,14,Cannery Row,John,Steinbeck,1945,95,181,small book
+14,15,Oblivion: Stories,David,Foster Wallace,2004,172,329,medium book
+15,16,Consider the Lobster,David,Foster Wallace,2005,92,343,medium book
+16,17,10% Happier,Dan,Harris,2014,29,256,medium book
+17,18,fake_book,Freida,Harris,2001,287,428,medium book
+18,19,Lincoln In The Bardo,George,Saunders,2017,1000,367,medium book

@@ -4,7 +4,7 @@ from mysql.connector import errorcode
 
 
 try:                           #!This path below is to avoid showing my DB credentials!
-  cnx = mysql.connector.connect(read_default_file='C:/Users/MAYSA/.my.cnf') 
+  cnx = mysql.connector.connect(read_default_file='C:/Users/USER/.my.cnf') 
   print("connection successful!")
 except mysql.connector.Error as err:
   if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:

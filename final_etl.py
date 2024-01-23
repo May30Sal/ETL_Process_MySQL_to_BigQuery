@@ -13,7 +13,7 @@ table = 'stock_status'
 table_id = f'{project}.{dataset}.{table}'
 
 # Establishing data connection with MySQL
-conn = mysql.connector.connect(read_default_file='C:/Users/MAYSA/.my.cnf') 
+conn = mysql.connector.connect(read_default_file='C:/Users/USER/.my.cnf') 
 
 # Extracting data from MySQL and Transforming it
 query = '''

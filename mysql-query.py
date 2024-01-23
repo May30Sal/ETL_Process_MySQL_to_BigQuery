@@ -4,7 +4,7 @@ import os # To predefine the path and file name of the files we'll export
 
 
 #! Establishing a connection with the DB
-cnx = mysql.connector.connect(option_files='C:/Users/MAYSA/.my.cnf') 
+cnx = mysql.connector.connect(option_files='C:/Users/USER/.my.cnf') 
 
 #! Creating a cursor object using the cursor() method to read the queries
 # cursor = cnx.cursor()
